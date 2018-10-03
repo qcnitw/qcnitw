@@ -65,7 +65,7 @@ You'll have to `config` your `git` settings from the command line in order to be
 
 [Brackets](brackets.io) : A text editor by Adobe coded in `HTML`, `CSS` and `JS`, this one is the only one with `live-preview` capability built in; a boon if you're looking towards front-end development.
 
-### Adding a new Quiz
+## Adding a new Quiz
 
 #### Adding the Quiz Thumbnail
 
